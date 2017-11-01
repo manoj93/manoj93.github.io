@@ -10,3 +10,5 @@ print "test5\n";
 print "test6\n";
 print "test8\n";
 print "test9\n";
+print "test10\n";
+
